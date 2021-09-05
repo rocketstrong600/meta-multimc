@@ -28,12 +28,10 @@
         },
         {
             "name": "LWJGL 2",
-            "sha256": "ad39a338d531c3c78ad0b24eba444eb4260cc486b36d583e3a2776f87e739b8a",
             "uid": "org.lwjgl"
         },
         {
             "name": "LWJGL 3",
-            "sha256": "4ee87a8e5327efb2c6ede2bb31aedeccaeac4791bdfdcbbc4302a092d4746277",
             "uid": "org.lwjgl3"
         }
     ]
