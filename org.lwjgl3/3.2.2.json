@@ -15,56 +15,6 @@
 		{
 			"downloads": {
 				"artifact": {
-					"sha1": "cc04eec29b2fa8c298791af9800a3766d9617954",
-					"size": 33790,
-					"url": "https://github.com/theofficialgman/lwjgl3-binaries-arm64/raw/lwjgl-3.2.2/lwjgl-jemalloc.jar"
-				}
-			},
-			"name": "org.lwjgl:lwjgl-jemalloc:3.2.2"
-		},
-		{
-			"downloads": {
-				"artifact": {
-					"sha1": "6dfce9dc6a9629c75b2ae01a8df7e7be80ba0261",
-					"size": 79582,
-					"url": "https://github.com/theofficialgman/lwjgl3-binaries-arm64/raw/lwjgl-3.2.2/lwjgl-openal.jar"
-				}
-			},
-			"name": "org.lwjgl:lwjgl-openal:3.2.2"
-		},
-		{
-			"downloads": {
-				"artifact": {
-					"sha1": "198bc2f72e0b2eb401eb6f5999aea52909b31ac4",
-					"size": 937609,
-					"url": "https://github.com/theofficialgman/lwjgl3-binaries-arm64/raw/lwjgl-3.2.2/lwjgl-opengl.jar"
-				}
-			},
-			"name": "org.lwjgl:lwjgl-opengl:3.2.2"
-		},
-		{
-			"downloads": {
-				"artifact": {
-					"sha1": "155d175037efc76630940c197ca6dea2b17d7e18",
-					"size": 108691,
-					"url": "https://github.com/theofficialgman/lwjgl3-binaries-arm64/raw/lwjgl-3.2.2/lwjgl-glfw.jar"
-				}
-			},
-			"name": "org.lwjgl:lwjgl-glfw:3.2.2"
-		},
-		{
-			"downloads": {
-				"artifact": {
-					"sha1": "46a5735f3eb9d17eb5dcbdd5afa194066d2a6555",
-					"size": 104075,
-					"url": "https://github.com/theofficialgman/lwjgl3-binaries-arm64/raw/lwjgl-3.2.2/lwjgl-stb.jar"
-				}
-			},
-			"name": "org.lwjgl:lwjgl-stb:3.2.2"
-		},
-		{
-			"downloads": {
-				"artifact": {
 					"sha1": "360899386df83d6a8407844a94478607af937f97",
 					"size": 318833,					
 					"url": "https://github.com/theofficialgman/lwjgl3-binaries-arm64/raw/lwjgl-3.2.2/lwjgl-core.jar"
@@ -81,6 +31,16 @@
 			"natives": {
 				"linux": "natives-linux"
 			}
+		},
+		{
+			"downloads": {
+				"artifact": {
+					"sha1": "cc04eec29b2fa8c298791af9800a3766d9617954",
+					"size": 33790,
+					"url": "https://github.com/theofficialgman/lwjgl3-binaries-arm64/raw/lwjgl-3.2.2/lwjgl-jemalloc.jar"
+				}
+			},
+			"name": "org.lwjgl:lwjgl-jemalloc:3.2.2"
 		},
 		{
 			"downloads": {
@@ -108,6 +68,16 @@
 					"sha1": "6dfce9dc6a9629c75b2ae01a8df7e7be80ba0261",
 					"size": 79582,
 					"url": "https://github.com/theofficialgman/lwjgl3-binaries-arm64/raw/lwjgl-3.2.2/lwjgl-openal.jar"
+				}
+			},
+			"name": "org.lwjgl:lwjgl-openal:3.2.2"
+		},
+		{
+			"downloads": {
+				"artifact": {
+					"sha1": "6dfce9dc6a9629c75b2ae01a8df7e7be80ba0261",
+					"size": 79582,
+					"url": "https://github.com/theofficialgman/lwjgl3-binaries-arm64/raw/lwjgl-3.2.2/lwjgl-openal.jar"
 				},
 				"classifiers": {
 					"natives-linux": {
@@ -121,6 +91,16 @@
 			"natives": {
 				"linux": "natives-linux"
 			}
+		},
+		{
+			"downloads": {
+				"artifact": {
+					"sha1": "198bc2f72e0b2eb401eb6f5999aea52909b31ac4",
+					"size": 937609,
+					"url": "https://github.com/theofficialgman/lwjgl3-binaries-arm64/raw/lwjgl-3.2.2/lwjgl-opengl.jar"
+				}
+			},
+			"name": "org.lwjgl:lwjgl-opengl:3.2.2"
 		},
 		{
 			"downloads": {
@@ -148,6 +128,16 @@
 					"sha1": "155d175037efc76630940c197ca6dea2b17d7e18",
 					"size": 108691,
 					"url": "https://github.com/theofficialgman/lwjgl3-binaries-arm64/raw/lwjgl-3.2.2/lwjgl-glfw.jar"
+				}
+			},
+			"name": "org.lwjgl:lwjgl-glfw:3.2.2"
+		},
+		{
+			"downloads": {
+				"artifact": {
+					"sha1": "155d175037efc76630940c197ca6dea2b17d7e18",
+					"size": 108691,
+					"url": "https://github.com/theofficialgman/lwjgl3-binaries-arm64/raw/lwjgl-3.2.2/lwjgl-glfw.jar"
 				},
 				"classifiers": {
 					"natives-linux": {
@@ -161,6 +151,16 @@
 			"natives": {
 				"linux": "natives-linux"
 			}
+		},
+		{
+			"downloads": {
+				"artifact": {
+					"sha1": "46a5735f3eb9d17eb5dcbdd5afa194066d2a6555",
+					"size": 104075,
+					"url": "https://github.com/theofficialgman/lwjgl3-binaries-arm64/raw/lwjgl-3.2.2/lwjgl-stb.jar"
+				}
+			},
+			"name": "org.lwjgl:lwjgl-stb:3.2.2"
 		},
 		{
 			"downloads": {
@@ -215,7 +215,7 @@
 	],
 	"name": "LWJGL 3",
 	"order": -1,
-	"releaseTime": "2021-09-14T15:38:29-04:00",
+	"releaseTime": "2021-09-21T17:56:42-04:00",
 	"type": "release",
 	"uid": "org.lwjgl3",
 	"version": "3.2.2",
