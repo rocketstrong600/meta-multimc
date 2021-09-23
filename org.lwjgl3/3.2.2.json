@@ -65,7 +65,7 @@
 		{
 			"downloads": {
 				"artifact": {
-					"sha1": "6dfce9dc6a9629c75b2ae01a8df7e7be80ba0261",
+					"sha1": "304f0571fd5971621ee6da86a4c1e90f6f52e2ee",
 					"size": 79582,
 					"url": "https://github.com/theofficialgman/lwjgl3-binaries-arm32/raw/lwjgl-3.2.2/lwjgl-openal.jar"
 				}
@@ -215,7 +215,7 @@
 	],
 	"name": "LWJGL 3",
 	"order": -1,
-	"releaseTime": "2021-09-21T18:04:42-04:00",
+	"releaseTime": "2021-09-23T18:19:29-04:00",
 	"type": "release",
 	"uid": "org.lwjgl3",
 	"version": "3.2.2",
