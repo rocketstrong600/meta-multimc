@@ -9,7 +9,7 @@
                     "uid": "org.lwjgl"
                 }
             ],
-            "releaseTime": "2019-07-24T12:52:52+00:00",
+            "releaseTime": "2021-09-24T12:54:54-04:00",
             "type": "release",
             "version": "3.2.3",
             "volatile": true
@@ -31,7 +31,7 @@
                     "uid": "org.lwjgl"
                 }
             ],
-            "releaseTime": "2021-09-07T19:53:45-04:00",
+            "releaseTime": "2021-09-24T12:54:54-04:00",
             "type": "release",
             "version": "3.2.1",
             "volatile": true
@@ -42,7 +42,7 @@
                     "uid": "org.lwjgl"
                 }
             ],
-            "releaseTime": "2021-09-07T19:53:45-04:00",
+            "releaseTime": "2021-09-24T12:54:54-04:00",
             "type": "release",
             "version": "3.1.6",
             "volatile": true
@@ -53,7 +53,7 @@
                     "uid": "org.lwjgl"
                 }
             ],
-            "releaseTime": "2021-09-07T19:53:45-04:00",
+            "releaseTime": "2021-09-24T12:54:54-04:00",
             "type": "release",
             "version": "3.1.2",
             "volatile": true

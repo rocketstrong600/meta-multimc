@@ -73,7 +73,7 @@
 					"natives-linux": {
 						"sha1": "368463bfc8ba25fa68a89a16ee535f0a229e86bc",
 						"size": 51148,
-						"url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl/3.2.3/lwjgl-3.2.3-natives-linux-arm64.jar"
+						"url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl/3.2.3/lwjgl-3.2.3-natives-linux-arm32.jar"
 					}
 				}
 			},
@@ -93,7 +93,7 @@
 					"natives-linux": {
 						"sha1": "bbc0a4672f5589e868ce3883da5a0c0b86e5b6ee",
 						"size": 148807,
-						"url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-jemalloc/3.2.3/lwjgl-jemalloc-3.2.3-natives-linux-arm64.jar"
+						"url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-jemalloc/3.2.3/lwjgl-jemalloc-3.2.3-natives-linux-arm32.jar"
 					}
 				}
 			},
@@ -113,7 +113,7 @@
 					"natives-linux": {
 						"sha1": "bc72c90b6feaa303ca838b138e1b9f679a66139c",
 						"size": 554810,
-						"url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-openal/3.2.3/lwjgl-openal-3.2.3-natives-linux-arm64.jar"
+						"url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-openal/3.2.3/lwjgl-openal-3.2.3-natives-linux-arm32.jar"
 					}
 				}
 			},
@@ -133,7 +133,7 @@
 					"natives-linux": {
 						"sha1": "aceb5d9ca264beed6d41c87e001632491dae165f",
 						"size": 58109,
-						"url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-opengl/3.2.3/lwjgl-opengl-3.2.3-natives-linux-arm64.jar"
+						"url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-opengl/3.2.3/lwjgl-opengl-3.2.3-natives-linux-arm32.jar"
 					}
 				}
 			},
@@ -153,7 +153,7 @@
 					"natives-linux": {
 						"sha1": "05149002edd12c9a7f62fb053d0ca8ea05a45f83",
 						"size": 141559,
-						"url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-glfw/3.2.3/lwjgl-glfw-3.2.3-natives-linux-arm64.jar"
+						"url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-glfw/3.2.3/lwjgl-glfw-3.2.3-natives-linux-arm32.jar"
 					}
 				}
 			},
@@ -173,7 +173,7 @@
 					"natives-linux": {
 						"sha1": "ed533966d44fa24df4ab92c34e18b18e2b1afb7f",
 						"size": 181213,
-						"url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-stb/3.2.3/lwjgl-stb-3.2.3-natives-linux-arm64.jar"
+						"url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-stb/3.2.3/lwjgl-stb-3.2.3-natives-linux-arm32.jar"
 					}
 				}
 			},
@@ -185,7 +185,7 @@
 	],
 	"name": "LWJGL 3",
 	"order": -1,
-	"releaseTime": "2020-06-10T11:26-04:00",
+	"releaseTime": "2021-09-24T12:54:54-04:00",
 	"type": "release",
 	"uid": "org.lwjgl3",
 	"version": "3.2.3",
