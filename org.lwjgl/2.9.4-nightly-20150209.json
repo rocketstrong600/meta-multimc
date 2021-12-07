@@ -10,8 +10,8 @@
             "downloads": {
                 "classifiers": {
                     "natives-linux": {
-                        "sha1": "1bc004d647a2e94d969c00a2bb2a472f37109f2d",
-                        "size": 10630,
+                        "sha1": "42b388ccb7c63cec4e9f24f4dddef33325f8b212",
+                        "size": 10932,
                         "url": "https://github.com/theofficialgman/lwjgl3-binaries-arm64/raw/lwjgl-2.9.4/jinput-platform-2.0.5-natives-linux.jar"
                     }
                 }
@@ -29,9 +29,9 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "39c7796b469a600f72380316f6b1f11db6c2c7c4",
-                    "size": 208338,
-                    "url": "https://libraries.minecraft.net/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar"
+                    "sha1": "47f50f20c60495069c5a3cab65f5f87b44c1069e",
+                    "size": 216970,
+                    "url": "https://github.com/theofficialgman/lwjgl3-binaries-arm64/raw/lwjgl-2.9.4/jinput-2.0.5.jar"
                 }
             },
             "name": "net.java.jinput:jinput:2.0.5"
