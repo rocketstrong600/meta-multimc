@@ -30,10 +30,10 @@
                         "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2-natives-linux.jar"
                     },
                     "natives-linux-arm64": {
-						"sha1": "074ad243761147df0d060fbefc814614d2ff75cc",
-						"size": 85072,
-						"url": "https://github.com/theofficialgman/lwjgl3-binaries-arm64/raw/lwjgl-3.2.2/lwjgl-glfw-natives-linux-arm64.jar"
-					},
+                        "sha1": "309fd2cc465e3449d45c3a8a90f48a2d3af4c532",
+                        "size": 140051,
+                        "url": "https://github.com/theofficialgman/lwjgl3-binaries-arm64/raw/lwjgl-3.2.2-rebase/lwjgl-glfw/lwjgl-glfw-natives-linux-arm64.jar"
+                    },
                     "natives-macos": {
                         "sha1": "98f745038d17ac3192fcd01dc44126b03ec1570d",
                         "size": 67311,
@@ -78,10 +78,10 @@
                         "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2-natives-linux.jar"
                     },
                     "natives-linux-arm64": {
-						"sha1": "19c7d57e1ab7fee54f35a8615babd5defc355d78",
-						"size": 156163,
-						"url": "https://github.com/theofficialgman/lwjgl3-binaries-arm64/raw/lwjgl-3.2.2/lwjgl-jemalloc-natives-linux-arm64.jar"
-					},
+                        "sha1": "9c48bc040620af11cf32959357aabc35641050ff",
+                        "size": 147726,
+                        "url": "https://github.com/theofficialgman/lwjgl3-binaries-arm64/raw/lwjgl-3.2.2-rebase/lwjgl-jemalloc/lwjgl-jemalloc-natives-linux-arm64.jar"
+                    },
                     "natives-macos": {
                         "sha1": "805f5a10465375ba034b27b72331912fd2846690",
                         "size": 117127,
@@ -126,10 +126,10 @@
                         "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2-natives-linux.jar"
                     },
                     "natives-linux-arm64": {
-						"sha1": "948e415b5b2a2c650c25b377a4a9f443b21ce92e",
-						"size": 469432,
-						"url": "https://github.com/theofficialgman/lwjgl3-binaries-arm64/raw/lwjgl-3.2.2/lwjgl-openal-natives-linux-arm64.jar"
-					},
+                        "sha1": "bebc7007b326a4f29d1cb5396b03ed39dadae4eb",
+                        "size": 553754,
+                        "url": "https://github.com/theofficialgman/lwjgl3-binaries-arm64/raw/lwjgl-3.2.2-rebase/lwjgl-openal/lwjgl-openal-natives-linux-arm64.jar"
+                    },
                     "natives-macos": {
                         "sha1": "a97b6345d5a9ddf889e262bd7ad8eed43b1bb063",
                         "size": 528006,
@@ -174,10 +174,10 @@
                         "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2-natives-linux.jar"
                     },
                     "natives-linux-arm64": {
-						"sha1": "bd40897077bf7d12f562da898b18ac2c68e1f9d7",
-						"size": 56109,						
-						"url": "https://github.com/theofficialgman/lwjgl3-binaries-arm64/raw/lwjgl-3.2.2/lwjgl-opengl-natives-linux-arm64.jar"
-					},
+                        "sha1": "75566741d9cc71dae347ce761893a93c4ab828b0",
+                        "size": 56020,
+                        "url": "https://github.com/theofficialgman/lwjgl3-binaries-arm64/raw/lwjgl-3.2.2-rebase/lwjgl-opengl/lwjgl-opengl-natives-linux-arm64.jar"
+                    },
                     "natives-macos": {
                         "sha1": "cf4f43e69ee70d8ebfbb6ba93dec9016339e4fdc",
                         "size": 38989,
@@ -222,10 +222,10 @@
                         "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2-natives-linux.jar"
                     },
                     "natives-linux-arm64": {
-						"sha1": "077efa7d7ea41b32df5c6078e912e724cccd06db",
-						"size": 202038,
-						"url": "https://github.com/theofficialgman/lwjgl3-binaries-arm64/raw/lwjgl-3.2.2/lwjgl-stb-natives-linux-arm64.jar"
-					},
+                        "sha1": "82754f8f0010b194bdcfdfabadd45196da197b82",
+                        "size": 202719,
+                        "url": "https://github.com/theofficialgman/lwjgl3-binaries-arm64/raw/lwjgl-3.2.2-rebase/lwjgl-stb/lwjgl-stb-natives-linux-arm64.jar"
+                    },
                     "natives-macos": {
                         "sha1": "ee059b129b09fdecbd8595273926ae930bf5a5d7",
                         "size": 196796,
@@ -275,9 +275,9 @@
                         "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2-natives-linux.jar"
                     },
                     "natives-linux-arm64": {
-						"sha1": "37c744ca289b5d7ae155d79e39029488b3254e5b",
-						"size": 37893,
-                        "url": "https://github.com/theofficialgman/lwjgl3-binaries-arm64/raw/lwjgl-3.2.2/lwjgl-tinyfd-natives-linux-arm64.jar"
+                        "sha1": "4b634a2610838a477973c3e6c946d5a37456de98",
+                        "size": 38687,                        
+                        "url": "https://github.com/theofficialgman/lwjgl3-binaries-arm64/raw/lwjgl-3.2.2-rebase/lwjgl-tinyfd/lwjgl-tinyfd-natives-linux-arm64.jar"
                     },
                     "natives-macos": {
                         "sha1": "46d0798228b8a28e857a2a0f02310fd6ba2a4eab",
@@ -328,10 +328,10 @@
                         "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2-natives-linux.jar"
                     },
                     "natives-linux-arm64": {
-						"sha1": "612efd57d12b2e48e554858eb35e7e2eb46ebb4c",
-						"size": 87121,
-						"url": "https://github.com/theofficialgman/lwjgl3-binaries-arm64/raw/lwjgl-3.2.2/lwjgl-natives-linux-arm64.jar"
-					},
+                        "sha1": "9763467eb82b595a49463c50cc2330bd28af9af3",
+                        "size": 84036,
+                        "url": "https://github.com/theofficialgman/lwjgl3-binaries-arm64/raw/lwjgl-3.2.2-rebase/lwjgl/lwjgl-natives-linux-arm64.jar"
+                    },
                     "natives-macos": {
                         "sha1": "bbfb75693bdb714c0c69c2c9f9be73d259b43b62",
                         "size": 48462,
