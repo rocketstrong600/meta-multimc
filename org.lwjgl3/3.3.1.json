@@ -25,12 +25,12 @@
                 },
                 "classifiers": {
                     "natives-linux": {
-                        "sha1": "81716978214ecbda15050ca394b06ef61501a49e",
+                        "sha1": "513eb39b866d0fe131a18d5c517087805433b029",
                         "size": 112350,
                         "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-glfw/3.3.1/lwjgl-glfw-3.3.1-natives-linux-arm64.jar"
                     },
                     "sources": {
-                        "sha1": "513eb39b866d0fe131a18d5c517087805433b029",
+                        "sha1": "e502700e6a1a0d02bddb8b4ef85afcdc15c88358",
                         "size": 125778,
                         "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-glfw/3.3.1/lwjgl-glfw-3.3.1-sources.jar"
                     }
