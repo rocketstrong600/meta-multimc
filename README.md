@@ -5,8 +5,9 @@ The meta repo automatically updates with the help of the https://github.com/wei/
 
 ## This repo includes:
 - LWJGL 2.9.4-nightly-20150209<br>
-- backported versions of 3.1.6, 3.2.1, and 3.2.2 for armhf/arm64 compatibility, and a spoofed 3.1.2 (for prerelease 1.13 minecraft)<br>
 - jinput 2.0.7 (it appears that jinput 2.0.5 from mojang is actually closer to 2.0.7) a library used for game controllers on minecraft 1.12.2 and older, tested with this mod: https://github.com/ljsimin/MinecraftJoypadSplitscreenMod<br>
+- backported versions of 3.1.6, 3.2.1, and 3.2.2 for armhf/arm64 compatibility, and a spoofed 3.1.2 (for prerelease 1.13 minecraft)<br>
+- official lwjgl 3.3.1 armhf/arm64 linux builds are also included for use with Minecraft 22w16a (1.19 prerelease) and newer<br>
 
 The only library that does not have a native arm64/armhf version is the narrator library created by Mojang. This just means the in-game narrator is unavailable. If you know a way to get the source for this library and build it for armhf/arm64 linux, create an issue here.
 
