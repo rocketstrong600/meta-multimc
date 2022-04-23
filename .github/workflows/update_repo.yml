@@ -16,7 +16,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
         with:
-          ref: testing
+          ref: master-clean-arm32
           fetch-depth: 0
 
       # Runs a set of commands using the runners shell
@@ -30,6 +30,10 @@ jobs:
           git config --list
           git config user.email "28281419+theofficialgman@users.noreply.github.com"
           git config user.name "theofficialgman"
-          git checkout testing
+          git checkout master-clean-arm32
           git merge remotes/upstream/master
-          git push 
+          git push
+          
+          git checkout master-clean
+          git merge remotes/upstream/master
+          git push
