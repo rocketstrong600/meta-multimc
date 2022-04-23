@@ -21,6 +21,8 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run app update scripts
         run: |
+          git config pull.twohead ort
+          git config --global pull.twohead ort
           git remote add -f upstream "https://github.com/MultiMC/meta-multimc.git"
           git remote -v
           git branch --all
@@ -28,5 +30,5 @@ jobs:
           git config user.email "28281419+theofficialgman@users.noreply.github.com"
           git config user.name "theofficialgman"
           git checkout testing
-          git merge remotes/upstream/master --allow-unrelated-histories
+          git merge remotes/upstream/master
           git push 
