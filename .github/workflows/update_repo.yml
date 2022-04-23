@@ -28,5 +28,5 @@ jobs:
           git config user.email "28281419+theofficialgman@users.noreply.github.com"
           git config user.name "theofficialgman"
           git checkout testing
-          git merge remotes/upstream/master
+          git merge remotes/upstream/master --allow-unrelated-histories
           git push 
