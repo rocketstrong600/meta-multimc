@@ -1,7 +1,7 @@
 # ARMhf/ARM64 Linux only - meta-multimc
 Auto Updating MultiMC/Launcher Minecraft package metadata for ARM64 and ARMhf Linux. Use the `master-clean` branch for ARM64 and `master-clean-arm32` for ARMhf. Warning: No support will be given by Mojang or MultiMC for using this meta repo, all issues should be created via this repo.
 
-The meta repo automatically updates with the help of the https://github.com/wei/pull project (this project accepts donations). Sometimes it can take a few hours for this meta repo to be updated, going to the https://pull.git.ci/process/theofficialgman/meta-multimc address might cause it to update sooner.
+The meta repo automatically updates with a [github actions workflow](https://github.com/theofficialgman/meta-multimc/blob/update_auto/.github/workflows/update_repo.yml). This runs every hour at 5 minutes past the hour. Upstream updates automatically at the hour, so this repo will be out of date for a maximum of 5 mintues. 
 
 ## This repo includes:
 - LWJGL 2.9.4-nightly-20150209<br>
