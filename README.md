@@ -1,6 +1,8 @@
 # ARMhf/ARM64 Linux only - meta-multimc
 Auto Updating MultiMC/Launcher Minecraft package metadata for ARM64 and ARMhf Linux. Use the `master-clean` branch for ARM64 and `master-clean-arm32` for ARMhf. Warning: No support will be given by Mojang or MultiMC for using this meta repo, all issues should be created via this repo.
 
+[L4T-Megascript](https://github.com/cobalt2727/L4T-Megascript) and [pi-apps](https://github.com/Botspot/pi-apps) use this meta repo for ARMhf/ARM64 Linux support in MultiMC, if running a debian based system, it is preferable to install via one of these two projects.
+
 The meta repo automatically updates with a [github actions workflow](https://github.com/theofficialgman/meta-multimc/blob/update_auto/.github/workflows/update_repo.yml). This runs every hour at 5 minutes past the hour. Upstream updates automatically at the hour, so this repo will be out of date for a maximum of 5 mintues. 
 
 ## This repo includes:
