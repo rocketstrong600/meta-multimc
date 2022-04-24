@@ -6,7 +6,7 @@ Auto Updating MultiMC/Launcher Minecraft package metadata for ARM64 and ARMhf Li
 The meta repo automatically updates with a [github actions workflow](https://github.com/theofficialgman/meta-multimc/blob/update_auto/.github/workflows/update_repo.yml). This runs every hour at 5 minutes past the hour. Upstream updates automatically at the hour, so this repo will be out of date for a maximum of 5 mintues. 
 
 ## This repo includes:
-- LWJGL 2.9.4-nightly-20150209<br>
+- LWJGL 2.9.4-nightly-20150209 (for minecraft 1.12 and older)<br>
 - jinput 2.0.7 (it appears that jinput 2.0.5 from mojang is actually closer to 2.0.7) a library used for game controllers on minecraft 1.12.2 and older, tested with this mod: https://github.com/ljsimin/MinecraftJoypadSplitscreenMod<br>
 - backported versions of 3.1.6, 3.2.1, and 3.2.2 for armhf/arm64 compatibility, and a spoofed 3.1.2 (for prerelease 1.13 minecraft)<br>
 - official lwjgl 3.3.1 armhf/arm64 linux builds are also included for use with Minecraft 22w16a (1.19 prerelease) and newer<br>
